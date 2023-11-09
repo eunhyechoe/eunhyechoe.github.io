@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  - #block: skills
+    #content:
+    #  title: Skills
+    #  text: ''
+    #  # Choose a user to display skills from (a folder name within #`content/authors/`)
+    #  username: admin
+    #design:
+    #  columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,11 +62,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Post-Master's Researcher
+          company: Cognitive Psychology Lab, Yonsei University
           company_url: ''
-          company_logo: org-gc
-          location: California
+          company_logo: org-yonsei
+          location: Seoul, South Korea
           date_start: '2021-01-01'
           date_end: ''
           description: |2-

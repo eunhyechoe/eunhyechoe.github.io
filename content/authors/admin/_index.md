@@ -7,8 +7,8 @@ first_name: Eunhye
 last_name: Choe
 
 # Status emoji
-status:
-  icon: 🐬
+# status:
+#  icon: 🐬
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,20 +22,20 @@ organizations:
     url: https://pbs.dartmouth.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Perception and Visual Working Memory
-  - Attentional Control
+  - Attentional Modulation
   - Selection History
-
+  - Probability Learning
+  - Perception and Working Memory
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Neuroscience
-      institution: Stanford University
+      institution: Dartmouth College
       year: 2027 (Expected)
     - course: M.A. in Cognitive Psychology
       institution: Yonsei University
@@ -72,5 +72,5 @@ social:
 highlight_name: true
 ---
 
-Eunhye is pursuing a Ph.D. degree in Cognitive Neuroscience at Dartmouth College under the guidance of Professor Peter U. Tse and Professor Patrick Cavanaugh at York University. Her current research focuses on the influence of attentional modulation on perception, visual working memory, and probability learning.
+Eunhye is pursuing a Ph.D. degree in Cognitive Neuroscience under the guidance of Professor Peter Ulric Tse at Dartmouth College and Professor Patrick Cavanaugh at York University. Her current research focuses on the influence of attentional modulation on perception, visual working memory, and probability learning.
 {style="text-align: justify;"}
