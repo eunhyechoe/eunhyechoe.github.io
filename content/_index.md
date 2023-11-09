@@ -65,7 +65,7 @@ sections:
         - title: Post-Master's Researcher
           company: Cognitive Psychology Lab, Yonsei University
           company_url: ''
-          company_logo: org-yonsei
+          company_logo: org-gc
           location: Seoul, South Korea
           date_start: '2021-01-01'
           date_end: ''
