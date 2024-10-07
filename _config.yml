@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Eunhye Choe / Site Title"
+title                    : "Eunhye Choe"
 title_separator          : "-"
 name                     : &name "Eunhye Choe"
 description              : &description "personal description"
