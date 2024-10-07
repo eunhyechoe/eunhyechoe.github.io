@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,6 @@ Hi! My name is Eunhye Choe, and I am a third-year Ph.D. student in the Departmen
 I am originally from Gyeonggi, South Korea, and I earned my B.A. and M.A. in Psychology at Yonsei University, where I worked with [Min-Shik Kim](http://cognition.yonsei.ac.kr/). Before coming to the U.S., I worked as a post-master's researcher at the Korea Brain Research Institute with [Su Keun Jeong](https://sites.google.com/view/skjeong/home).
  
 For more details, check out my [CV](https://eunhyechoe.github.io/cv).
- 
  
 🇰🇷 Quick Korean Tip: How to pronounce my name
 -----
