@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!-- 
 
 Hi! My name is Eunhye Choe, and I am a third-year Ph.D. student in the Department of Psychological and Brain Sciences at Dartmouth College. I work with [Peter Tse](https://sites.dartmouth.edu/peter) and [Patrick Cavanagh](https://cavlab.net/). I am currently studying visual perception, with a focus on how intention and attentional deployment modulate complex signal components in the human brain.
  
@@ -16,8 +17,10 @@ I am originally from Gyeonggi, South Korea, and I earned my B.A. and M.A. in Psy
  
 For more details, check out my [CV](https://eunhyechoe.github.io/cv).
  
+ 
 🇰🇷 Quick Korean Tip: How to pronounce my name
 =====
-'Eun' sounds like the end of the word 'button' (the 'nn' sound, without the 'butt' 😂). For 'Hye,' just say 'hey' or 'yeah' but add a quick, soft 'h' sound at the beginning.
+'Eun' sounds like the end of the word 'button' (the 'nn' sound, without the 'butt' 😂).
+For 'Hye,' just say 'hey' or 'yeah' but add a quick, soft 'h' sound at the beginning.
  
-You’ve now mastered how to pronounce my name like a Korean! 🎉
+You’ve now mastered how to pronounce my name like a Korean! 🎉 -->
