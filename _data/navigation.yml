@@ -23,11 +23,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Demos"
-    url: /demos/
+  # - title: "Demos"
+  #   url: /demos/
 
-  - title: "Photos"
-    url: /photos/
+  # - title: "Photos"
+  #   url: /photos/
     
   - title: "CV"
     url: /cv/
